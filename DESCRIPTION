@@ -19,5 +19,6 @@ BugReports: https://github.com/christopherkenny/quote/issues
 Imports: 
     magrittr,
     purrr,
+    rlang,
     styler,
     tibble
