@@ -12,8 +12,8 @@ You can install from [GitHub](https://github.com/christopherkenny/quote)
 with:
 
 ``` r
-# install.packages("remotes")
-remotes::install_github("christopherkenny/quote")
+# install.packages('remotes')
+remotes::install_github('christopherkenny/quote')
 ```
 
 ## Use:
@@ -27,4 +27,4 @@ usethis::edit_r_profile()
 ```
 
 Paste in:
-`options(styler.addins_style_transformer = "quote::quote_style()")`
+`options(styler.addins_style_transformer = 'quote::quote_style()')`
